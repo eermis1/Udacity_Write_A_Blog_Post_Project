@@ -11,10 +11,10 @@
 In this project, ISPARK - Istanbul Park, municipally driven car park company, data has used to analyze Istanbul car park network including parking point cost, usage and location. <br>
 
 From that reason, I try to find out the answers of below questions during the project: <br> 
-- How many parking zones do each side of Istanbul have? What is the average monthly subscription cost per side? <br>
-- What are the number of parking zones and their monthly costs of each district in Istanbul ? <br>
+- How many parking zones does each side of Istanbul have? What is the average monthly subscription cost per side? <br>
+- What is the number of parking zones and their monthly cost of each district in Istanbul ? <br>
 - What is the average utilization rate and total capacity of parking zones of each district in Istanbul ? <br>
-- What are the parking slots that we can stop 15 minutes (or more) freely ? <br>
+- What is the free stopping availability in Istanbul ? <br>
         
 The findings can be found at the post available [here](https://medium.com/@evrenermis92/the-istanbul-metropolitan-municipality-car-park-network-ispark-data-analysis-1ccde921bb57) in Medium 
         
