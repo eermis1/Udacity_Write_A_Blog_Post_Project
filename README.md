@@ -16,18 +16,12 @@ From that reason, I try to find out the answers of below questions during the pr
 - What is the average utilization rate and total capacity of parking zones of each district in Istanbul ? <br>
 - What is the free stopping availability in Istanbul ? <br>
         
-The findings can be found at the post available [here](https://medium.com/@evrenermis92/the-istanbul-metropolitan-municipality-car-park-network-ispark-data-analysis-1ccde921bb57) in Medium 
-        
-## Project Directory
-~~~~~~~
-        Udacity_DisasterResponses_Projecty
-          |-- IBB_Ispark_Analysis_Github_Version.ipynb #Github compatible version (Plotly Graphs)        
-          |-- IBB_Ispark_Analysis_Github_Version.html
-          |-- IBB_Ispark_Analysis_Orj.ipynb #Main notebook           
-          |-- ibb_ispark.xlsx #raw data      
-          |-- README
-~~~~~~~
+## Medium Post !
 
+The findings can be found at the post available [here](https://medium.com/@evrenermis92/the-istanbul-metropolitan-municipality-car-park-network-ispark-data-analysis-1ccde921bb57) in Medium <br>
+Please apploud if you like :)
+
+       
 ## Dependencies
 
 In order to run the notebook flawlessly, please run: <br>
@@ -37,6 +31,11 @@ In order to run the notebook flawlessly, please run: <br>
         - pip install numpy <br>
         - pip install matplotlib <br>
         - conda install -c plotly plotly-orca==1.3.1 psutil requests #To save plotly graphs as png or jpeg.  <br> 
+
+## Imporant Note
+
+Plotly Graphs can not be shown propery in the Github because of the staric render of Github.<br>
+Please see the Medium Post or run the notebook locally in order to see the Plotly graps. <br>
 
 ## Author
 
