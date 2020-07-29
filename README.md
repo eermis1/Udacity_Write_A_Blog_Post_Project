@@ -16,7 +16,7 @@ From that reason, I try to find out the answers of below questions during the pr
 - What is the average utilization rate and total capacity of parking zones of each district in Istanbul ? <br>
 - What are the parking slots that we can stop 15 minutes (or more) freely ? <br>
         
-The findings can be found at the post available here in Medium 
+The findings can be found at the post available [here](https://medium.com/@evrenermis92/the-istanbul-metropolitan-municipality-car-park-network-ispark-data-analysis-1ccde921bb57) in Medium 
         
 ## Project Directory
 ~~~~~~~
@@ -46,7 +46,3 @@ The repository has been created by ***Evren Ermiş*** <br>
 - [Github](https://github.com/eermis1)
 - [Kaggle](https://www.kaggle.com/evrenermis/)
 
-### ToDo
-
-- Conclusion
-- Delete world map question
